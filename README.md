@@ -1,4 +1,7 @@
 # Learn_NodeJS
+## @author: @ansanchezx for Sofgrox
+## Last update date: 01/10/23
+## Last update by: @ansanchezx
 
 INSTALACION Y CONFIGURACION
 
