@@ -111,6 +111,55 @@ Clic en finalizar:
 
 ![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/2ade01b9-ac77-4c3b-8a28-b15ae709cf93)
 
+PASO #4
+
+Abrir consola del sistema como administrador y ejecutar el siguiente comando presionando ENTER:
+
+node -v
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/ef762d27-3c80-487d-9191-1e0819012ee2)
+
+Esto nos muestra la versión instalada, con esto confirmamos que se instalo correctamente NodeJS
+
+Ejecutar el siguiente comando y presionar ENTER:
+
+npm -v
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/32c0db97-bbe9-436a-a740-7338148cb38b)
+
+Esto nos muestra la versión instalada, con esto confirmamos que se instalo correctamente NPM el cual se instala en conjunto con NodeJS.
+
+PASO #5
+
+No siempre npm queda en la versión reciente, para verificar esto se ingresa a la página/repositorio oficial de npm el cual indica su versión actual:
+https://github.com/npm/cli/releases
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/b8099057-3cf9-4f42-99fe-6d0ea76a58c8)
+
+Aqui podemos ver que la versión actual de npm no es la que esta instalada en el equipo, para actualizar la versión de NPM se deben realizar los siguientes pasos.
+
+En la consola del sistema abierta como administrador, ejecutar el siguiente comando y presionar ENTER:
+
+NOTA: en el comando que vera a continuación se deben reemplaxar las X.X.X por la version indicada en la página/repositorio de npm
+ejemplo npm install -g npm@X.X.X
+
+Para ejecutarlo en consola con la versión actual de npm hasta el momento de creación de esta guía seria:
+
+npm install -g npm@10.1.0
+
+Luego ejecutar el siguiente comando y presionar ENTER:
+
+npm -v
+
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/23dbaf57-fca9-421b-9f2f-ecb2bb1f7299)
+
+Esto deja el npm instalado en su ultima versión.
+
+
+
+
+
 
 
 
