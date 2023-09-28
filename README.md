@@ -1,5 +1,5 @@
 # Learn_NodeJS
-- @author: @ansanchezx for Sofgrox
+- Author: @ansanchezx for Sofgrox
 - Last update date: 01/10/23
 - Last update by: @ansanchezx
 
