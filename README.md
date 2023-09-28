@@ -2,6 +2,9 @@
 
 INSTALACION Y CONFIGURACION
 
+
+PASO #1:
+
 Lo primero es instalar NVM para el controlador de versiones de Node y NPM.
 
 ingresar en la página/repositorio oficial de NVM:
@@ -47,9 +50,72 @@ Dar clic en finalizar:
 
 ![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/bbe32744-1931-4da0-95d2-fa62c1ffe2ce)
 
+
+PASO #2:
+
 El siguiente paso es confirmar que nvm quedó instalado, realizar los siguientes pasos.
 
 Abrir consola como administrador:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/6aae9060-967a-4b28-9dea-336f1e8e9937)
+
+Escribir el siguiente comando y ejecutarlo con la tecla ENTER:
+
+nvm v
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/a27ec1c6-9161-4d1c-bf9e-971ee6cfa426)
+
+Esto muestra la versión instalada en el equipo, indicando asi que la instalación fue correcta.
+
+PASO #3:
+
+Ingresar a la página oficial de NodeJS y descargar la versión LTS:
+https://nodejs.org/en
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/c04329ec-ae27-49df-9b65-0f847648d673)
+
+Ejecutar el instalador descargado:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/fe85e9d0-14ed-4d7e-b494-da43f59fd366)
+
+Click en siguiente:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/9f2d22e1-ab3c-476f-9e28-68aff3123763)
+
+
+Aceptar los terminos dando click a la casilla de verificación y dar clic en siguiente:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/707590d1-eff6-46f7-a0fd-afc974e6765d)
+
+Se recomienda no cambiar la ruta de instalación, solo dar clic en siguiente:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/7c39d76f-2db9-4137-aca1-208df5ed39b9)
+
+Dar click en siguiente:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/e57c9e41-3792-4de8-bc04-d35761e44700)
+
+Dejar la casilla de verificación en blanco y dar clic en siguiente:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/5c749116-7e2a-4f2c-a887-f84cb348a739)
+
+Clic en installar:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/06c35469-304b-423d-92af-4ae908e5e60a)
+
+Esperar que termine el proceso de instalación:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/a6559f5d-5495-477d-9ed7-dfab442c9291)
+
+Clic en finalizar:
+
+![image](https://github.com/learning-guides/Learn_NodeJS/assets/141972615/2ade01b9-ac77-4c3b-8a28-b15ae709cf93)
+
+
+
+
+
+
 
 
 
